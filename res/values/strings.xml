@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">智能小车7</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="title">2016嵌入式产品开发</string>
+	  <string name="nfc">NFC</string>
+    <string name="car">CAR</string>
+    <string name="trackbtn">循迹</string>
+    <string name="infrared">红外</string>
+    <string name="buzzer">蜂鸣器</string>
+    <string name="light">指示灯</string>
+    <string name="qrtbtn">二维码</string>
+    <string name="ledbtn">LED灯</string>
+    <string name="gatabtn">闸门</string>
+    <string name="digital_title">第几行数据:</string>
+    <string name="zigbeebtn">zigbee</string>
+    <string name="zfbtn">主指令</string>
+    <string name="vicebtn">主车状态</string>
+    <string name="quanbtn">全自动</string>
+    <string name="setbtn">预设位</string>
+     <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#ff0000</color>
+    <color name="golden">#ffd700</color>
+    <string name="resultbtn">结果</string>
+    <string name="otherbtn">其它</string>
+    <string name="armother">机械臂状态</string>
+    <string name="voicetext">播报的文本:</string>
+</resources>
